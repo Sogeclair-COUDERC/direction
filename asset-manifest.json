@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ICAP/static/css/main.5f4b4486.css",
+    "main.js": "/ICAP/static/js/main.3ba8901d.js",
+    "static/js/787.4cc82557.chunk.js": "/ICAP/static/js/787.4cc82557.chunk.js",
+    "index.html": "/ICAP/index.html",
+    "main.5f4b4486.css.map": "/ICAP/static/css/main.5f4b4486.css.map",
+    "main.3ba8901d.js.map": "/ICAP/static/js/main.3ba8901d.js.map",
+    "787.4cc82557.chunk.js.map": "/ICAP/static/js/787.4cc82557.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5f4b4486.css",
+    "static/js/main.3ba8901d.js"
+  ]
+}
